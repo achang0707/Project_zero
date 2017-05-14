@@ -1,2 +1,4 @@
 # Project_zero
-Git Test 
+
+- Python design pattern
+- Javascript intro
